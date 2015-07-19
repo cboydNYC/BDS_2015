@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="SiteGround BDS">
+    <serverData>
+      <paths name="Boyd Design Studio">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="bds_2015" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SiteGround BDS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

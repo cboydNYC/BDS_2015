@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9e82664d-971e-41dc-a449-b0ff32e1e4b0" name="SiteGround BDS" url="http://siteground331.com/~boyddes3">
+        <fileTransfer host="siteground331.com" port="21" rootFolder="/public_html" password="dffedfc3dfc7dfc7dfd3dfc2df9adf9a" username="boyddes3">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
